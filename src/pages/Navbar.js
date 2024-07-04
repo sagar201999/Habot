@@ -15,17 +15,17 @@ const Navbar = () => {
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item me-4">
-                            <a class="nav-link fs-18px active" aria-current="page" href="#suppliers">Find Suppliers</a>
+                            <a class="nav-link fs-18px active grey" aria-current="page" href="#suppliers">Find Suppliers</a>
                         </li>
                         <li class="nav-item me-4 dropdown">
-                            <a class="nav-link fs-18px dropdown-toggle" href="#service" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a class="nav-link fs-18px dropdown-toggle grey" href="#service" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Find Service Tags
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#a">Action</a></li>
-                                <li><a class="dropdown-item" href="#b">Another action</a></li>
-                                <li><hr class="dropdown-divider" /></li>
-                                <li><a class="dropdown-item" href="#c">Something else here</a></li>
+                                <li><a class="dropdown-item grey" href="#a">Action</a></li>
+                                <li><a class="dropdown-item grey" href="#b">Another action</a></li>
+                                <li><hr class="dropdown-divider grey" /></li>
+                                <li><a class="dropdown-item grey" href="#c">Something else here</a></li>
                             </ul>
                         </li>
                         <div>
