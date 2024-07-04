@@ -204,3 +204,8 @@ a{
   text-decoration: none !important;
   color: white !important;
 }
+
+.social-logo{
+  width: 100px;
+  height: 100px;
+}
